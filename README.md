@@ -1,5 +1,6 @@
 
-![](https://simpleicons.org/?modal=icon&q=awesomelists)
+![](https://img.shields.io/badge/-awesomelists-412991?style=flat-square&logo=awesomelists&logoColor=FFFFFF)
+
 
 # backdoor-attack
 
